@@ -8,6 +8,8 @@
 
 // Project was abandoned, unfortunately. 
 
+// Some ESP-01s I had refused to leave AP mode. I guess cheap as chips means it works like cheap. 
+
 
 // Wetbird 
 // BSW and others
